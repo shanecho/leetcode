@@ -34,6 +34,28 @@
 * 35 Search Insert Position
 * 79 Word Search
 
+### APR 11
+* 123 Best Time to Buy and Sell Stock III
+* 14 Longest Common Prefix
+* 147 draft: Insertion Sort List
+
+### APR 12
+* 38 Count and Say
+* 53 Maximum Subarray
+
+### APR 13
+* 66 Plus One
+* 67 Add Binary
+* 69 Sqrt(x)
+* 70 Climbing Stairs
+* 50 Pow(x,n)
+* 58 Length of Last Word
+* 88 Merge Sorted Array
+* 100 Same Tree
+* 101 Symmetric Tree
+* 104 Maximum Depth of Binary Tree
+* 3 Longest Substring Without Repeating Characters
+
 #### BFS & DFS
 * Binary Tree Level Order Traversal | LeetCode OJ
 * Generate Parentheses | LeetCode OJ
