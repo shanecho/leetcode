@@ -1,4 +1,4 @@
-//他丫的有病吧，非要我用DP， DFS一点不让用啊，我已经把复杂度降到n square了明明
+//
 package javacode;
 
 public class unique_path {
