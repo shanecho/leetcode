@@ -1,5 +1,5 @@
 package javacode;
-
+//转换从寻找k大的点 -> length - k+ 1小的点 -> index length - k小的点
 public class kth_largest_element_in_an_array {
 	public static int findKthLargest(int[] nums, int k){
 		if(nums == null || nums.length == 0) return Integer.MAX_VALUE;
